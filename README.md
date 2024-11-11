@@ -1,6 +1,7 @@
 # [WHAC A MOLE](https://youtu.be/ej8SatOj3V4)
 - Coding Tutorial: https://youtu.be/ej8SatOj3V4
 - Demo: https://imkennyyip.github.io/whac-a-mole/
+- some dumb changes by me just for fun
 
 In this tutorial, you will learn to create the whac a mole game with html, css, and javascript. Specifically, you will learn how to code the game using html5 canvas. 
 
